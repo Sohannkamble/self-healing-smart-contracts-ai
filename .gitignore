@@ -1,0 +1,9 @@
+node_modules/
+.env
+artifacts/
+cache/
+typechain-types/
+deployments.local.json
+*.log
+__pycache__/
+output/
