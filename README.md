@@ -155,10 +155,10 @@ Smart Contract → AI Detection → Patch Generation → Compile → Deploy → 
 
 ##  Results
 
-* ✔ Successful vulnerability detection
-* ✔ Automated patch generation
-* ✔ Secure redeployment
-* ✔ Transparent on-chain patch tracking
+*  Successful vulnerability detection
+*  Automated patch generation
+*  Secure redeployment
+*  Transparent on-chain patch tracking
 
 ---
 
@@ -188,6 +188,6 @@ Smart Contract → AI Detection → Patch Generation → Compile → Deploy → 
 
 ##  If you like this project
 
-Give it a ⭐ on GitHub and share it!
+Give it a on GitHub and share it!
 
 ---
