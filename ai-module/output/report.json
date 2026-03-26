@@ -1,0 +1,14 @@
+{
+  "file": "VulnerableContract.sol",
+  "path": "C:\\Users\\lenovo\\OneDrive\\Desktop\\CODE\\Self-Healing-Smart-Contracts\\blockchain\\contracts\\VulnerableContract.sol",
+  "findings": [
+    {
+      "type": "reentrancy_possible",
+      "evidence": "call{"
+    },
+    {
+      "type": "state_update_after_call",
+      "evidence": "-="
+    }
+  ]
+}
