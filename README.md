@@ -186,8 +186,4 @@ Smart Contract → AI Detection → Patch Generation → Compile → Deploy → 
 
 ---
 
-##  If you like this project
 
-Give it a on GitHub and share it!
-
----
